@@ -1,7 +1,7 @@
 #! python3
 import os, sys, subprocess, shutil
 
-# Full url of site is http://asofttech.github.io/Gbd.IO.Serial/
+# Full url of site is http://asofttech.github.io/Gbd.Reactive/
 
 # MkDocs Build Script
 class MkDocsBuild(object):

@@ -1,0 +1,29 @@
+site_name: Gbd.Reactive
+site_url: http://ASoftTech.github.io/Gbd.Reactive
+repo_url: https://github.com/ASoftTech/Gbd.Reactive
+site_description: Gbd.Reactive - A C# .Net library for extensions of reactive extensions
+edit_uri: edit/master/Docs/MkDocs/Docs
+
+pages:
+- Home: index.md
+- Libraries:
+    - Gbd.Reactive: Gbd.Reactive\Overview.md
+    - Gbd.Reactive.SubProcess: Gbd.Reactive.SubProcess\Overview.md
+
+
+#theme: cosmo
+theme: cyborg
+#theme: alabaster
+#theme: readthedocs
+#theme: mkdocs
+#theme: material
+
+# Overrides content within the selected theme
+theme_dir: theme
+
+markdown_extensions:
+    - smarty
+
+extra_css:
+    - css/highlight-fix.css
+    - css/highlight-custom.css

@@ -27,3 +27,4 @@ markdown_extensions:
 extra_css:
     - css/highlight-fix.css
     - css/highlight-custom.css
+    - css/navbarfix.css

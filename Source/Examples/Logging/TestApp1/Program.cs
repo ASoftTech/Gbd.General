@@ -3,9 +3,9 @@ using Serilog;
 using TestApp1.Logging;
 
 namespace TestApp1 {
-    class Program {
+    public class Program {
 
-        static void Main(string[] args) {
+        public static void Main(string[] args) {
 
             // Setup Serilog
             Log.Logger = new LoggerConfiguration()

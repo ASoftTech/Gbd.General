@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TestApp2.Logging;
+﻿using TestApp2.Logging;
 
 namespace TestApp2 {
     public class MyClass {
